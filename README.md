@@ -1,1 +1,1 @@
-Visit [To Do App](https://yousef-RXy.github.io/toDoApp) to try the web app
+[To Do App](https://yousef-RXy.github.io/toDoApp) aimed to develop a web-based To-Do list application that allowed users to create, manage, and organize their tasks. The application was built using React and prioritized mobile responsiveness to ensure a seamless experience on various devices.
